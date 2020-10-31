@@ -2,13 +2,13 @@
 
 ### Hello world, I'm Leandro :octocat:
 ---
-Full-Stack Enthusiast | Estudante :robot:.
+Full-Stack Enthusiast :robot:.
 
-Estudante de Analise e Desenvolvimento de Sistema no IFMT e me empenhando em aprender as mais recentes tecnologias de mercado :books:
+Estudante de Analise e Desenvolvimento de Sistema no IFMT empenhado em aprender as mais recentes tecnologias de mercado :books:
 
 ### About me
 ---
-- 📚 Estudando Node, PHP e Flutter
+- 📚 Atualmente estudando Node, JavaScript, PHP, React, React Native e Flutter
 - 💚 Buscando a melhor forma de ajudar colegas devs a alcançarem seus objetivos
 ---
 #### Made with ❤️ by Leandro
