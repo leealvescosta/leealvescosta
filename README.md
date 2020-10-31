@@ -4,7 +4,7 @@
 ---
 Full-Stack Enthusiast | Estudante :robot:.
 
-Estudante de Analise e Desenvolvimento de Sistema no IFMT e me empenhando em aprender as mais recentos tecnologias de mercado. :books:
+Estudante de Analise e Desenvolvimento de Sistema no IFMT e me empenhando em aprender as mais recentes tecnologias de mercado :books:
 
 ### About me
 ---
