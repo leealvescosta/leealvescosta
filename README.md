@@ -1,4 +1,4 @@
-<img align="right" width="100%" src="https://miro.medium.com/max/1360/1*VON9gHTrzeHZbHfXsqfzEA.gif">
+<img align="right" width="50%" src="https://miro.medium.com/max/1360/1*VON9gHTrzeHZbHfXsqfzEA.gif">
 
 ### Hello world, I'm Leandro :octocat:
 ---
