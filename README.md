@@ -1,13 +1,14 @@
-<img align="right" width="50%" src="https://miro.medium.com/max/1360/1*VON9gHTrzeHZbHfXsqfzEA.gif">
+<img align="right" width="50%" src="https://sammly-host.com/images/site.gif">
 
 ### Hello world, I'm Leandro :octocat:
 ---
 Full-Stack Enthusiast :robot:.
 
-Estudante de Analise e Desenvolvimento de Sistema no IFMT :books:
+Student of System Analysis and Development at IFMT :books:
 
 ### About me
 ---
-- 📚 Atualmente estudando Node, JavaScript, PHP, React, React Native e Flutter
+- 📚 Currently studying Node, JavaScript, PHP, React, React Native and Flutter.
+- Look at my repos and if you have a question, please, don't worry, send me a mail!
 ---
 #### Made with ❤️ by Leandro
