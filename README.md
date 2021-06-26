@@ -3,6 +3,7 @@
 ### Hello world, I'm Leandro :octocat:
 ---
 Full-Stack Enthusiast :robot:.
+Passionate on Mobile Apps :iphone:
 
 Student of System Analysis and Development at IFMT :books:
 
