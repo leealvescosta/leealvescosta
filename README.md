@@ -1,11 +1,9 @@
-<h1 align="left">Hi friend <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> </br> I'm Leandro Costa</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> </br> I'm Leandro Costa</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leealvescosta&color=8257E5" alt="Profile views" /> </p>
 
 - 🐧 Junior Full-Stack Developer passionate on Mobile Apps
 
 - 👨‍💻 Currently working at [Sicredi 💚](https://sicredi.com.br)
-
-- ⚡You can see my projects here [github](https://github.com/leealvescosta?tab=repositories)
 
 - 💬 Talk with me about **Flutter, Dart, NodeJs, JavaScript, React, iOS, Android & React Native**
 
